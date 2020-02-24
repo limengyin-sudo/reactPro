@@ -1,0 +1,11 @@
+.container{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+.title{
+    font-size: 18px;
+    color: #333;
+}

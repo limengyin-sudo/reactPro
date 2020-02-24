@@ -1,0 +1,27 @@
+.tab ul{
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+  font-size: 20px;
+  position: fixed;
+  bottom: 0;
+  border-top: 2px solid #e0e0e0;
+  padding: 0;
+  margin: 0;
+  background-color: #fff;
+  z-index: 10;
+}
+.tab ul li{
+  list-style: none;
+}
+.movie,
+.music{
+  text-decoration: none;
+  color: #333;
+  font-size: 24px;
+}
+.tab ul p{
+  margin: 0;
+}

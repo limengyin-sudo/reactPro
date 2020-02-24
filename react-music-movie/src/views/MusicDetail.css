@@ -1,0 +1,18 @@
+.musicWrap{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    border-bottom: 1px solid #e0e0e0;
+}
+.pic{
+    width: 100px;
+}
+.musicWrap p{
+    width: 300px;
+}
+.musicName{
+    margin-left: 18px;
+    color: #333;
+    font-size: 20px;
+}

@@ -1,0 +1,19 @@
+.wrap{
+    width: 100%;
+    display: flex;
+}
+.wrap img{
+    margin: 16px;
+}
+.movieDetail{
+    width: 1000px;
+}
+.movieTitle{
+    font-size: 22px;
+    margin-top: 16px;
+}
+.movieSummary{
+    color: #333;
+    text-indent: 2em;
+    line-height: 30px;
+}
